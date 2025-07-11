@@ -5,9 +5,7 @@
 
 [![chong-yao](https://github-profile-trophy.vercel.app/?username=chong-yao)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
-
-- 📫 How to reach me **o.chongyao@gmail.com**
+- 📫 **o.chongyao@gmail.com**
 
 ### Connect with me:
 
