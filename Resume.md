@@ -1,27 +1,25 @@
-# CHONG YAO ONG
-
-<img
-src="ONG_CHONG_YAO_headshot.jpg"
-alt="A perfectly centered cat"
-style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; object-position: 50% 40%;">
-
----
-
-**CONTACT**
-
-*   **+60 17 280 0811**
-*   **o.chongyao@gmail.com**
-*   **N2-2-3 The Light Collection IV, Jalan Pantai Sinaran, 11700 Gelugor, Pulau Pinang, Malaysia**
-*   **LinkedIn**
-
----
-
-**Personal info**
-
-*   **Nationality**
-    Malaysian
-*   **Date of birth**
-    21st September 2008
+<table border="0" style="width:100%;">
+  <tr>
+    <td width="30%" valign="top" align="center">
+      <p align="center">
+        <img src="ONG_CHONG_YAO_headshot-square.jpg" style="border-radius: 50%; alt="Chong Yao Ong">
+      </p>
+    </td>
+    <td width="70%" valign="top">
+      <h1>ONG CHONG YAO</h1>
+      <h3>CONTACT</h3>
+      <p>
+        📞 +60 17 280 0811<br>
+        📧 o.chongyao@gmail.com<br>
+        📍 Gelugor, Pulau Pinang, Malaysia
+      </p>
+      <p>
+        <strong>Nationality:</strong> Malaysian<br>
+        <strong>Date of birth:</strong> 21st September 2008
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
