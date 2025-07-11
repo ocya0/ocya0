@@ -6,13 +6,7 @@
 
 [![chong-yao](https://github-profile-trophy.vercel.app/?username=chong-yao)](https://github.com/ryo-ma/github-profile-trophy)
 
-I'm an AI enthusiast and developer, driven by the challenge of creating innovative solutions that can learn and adapt. My journey in technology is all about exploring the frontiers of artificial intelligence and sharing my discoveries with the open-source community.
-
-- 🔭 I’m currently working on a personal project involving **Natural Language Processing** to analyze sentiment in real-time data streams.
-- 🌱 I’m currently learning more about **Reinforcement Learning** and its applications in robotics.
-- 👯 I’m looking to collaborate on projects that leverage **AI for social good**.
-- 📫 How to reach me: **o.chongyao@gmail.com**
-- ⚡ Fun fact: When I'm not coding, you can find me exploring hiking trails or experimenting with new recipes in the kitchen!
+📫 **o.chongyao@gmail.com**
 
 ### Connect with me:
 
