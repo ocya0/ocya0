@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ong Chong Yao
 
-### A Passionate AI Solutions Developer on a Mission to Build Intelligent Systems
+### A Passionate AI Solutions Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=chong-yao&label=Profile%20views&color=0e75b6&style=flat)
 
