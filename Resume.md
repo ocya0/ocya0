@@ -2,7 +2,6 @@
 
 <img
 src="ONG_CHONG_YAO_headshot.jpg"
-alt="A perfectly centered cat"
 style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; object-position: 50% 40%;">
 
 ---
