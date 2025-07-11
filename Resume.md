@@ -1,8 +1,6 @@
 # CHONG YAO ONG
 
-<img
-src="ONG_CHONG_YAO_headshot.jpg"
-style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; object-position: 50% 40%;">
+![alt]("ONG_CHONG_YAO_headshot.jpg")
 
 ---
 
