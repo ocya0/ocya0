@@ -1,6 +1,6 @@
 # CHONG YAO ONG
 
-![alt]("ONG_CHONG_YAO_headshot.jpg")
+![alt](ONG_CHONG_YAO_headshot.jpg)
 
 ---
 
