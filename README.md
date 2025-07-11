@@ -1,40 +1,82 @@
-# Hi 👋, I'm Ong Chong Yao
-### A passionate AI solutions developer.
+# Hi there 👋, I'm Ong Chong Yao
+
+### A Passionate AI Solutions Developer on a Mission to Build Intelligent Systems
 
 ![Profile views](https://komarev.com/ghpvc/?username=chong-yao&label=Profile%20views&color=0e75b6&style=flat)
 
 [![chong-yao](https://github-profile-trophy.vercel.app/?username=chong-yao)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 📫 **o.chongyao@gmail.com**
+I'm an AI enthusiast and developer, driven by the challenge of creating innovative solutions that can learn and adapt. My journey in technology is all about exploring the frontiers of artificial intelligence and sharing my discoveries with the open-source community.
+
+- 🔭 I’m currently working on a personal project involving **Natural Language Processing** to analyze sentiment in real-time data streams.
+- 🌱 I’m currently learning more about **Reinforcement Learning** and its applications in robotics.
+- 👯 I’m looking to collaborate on projects that leverage **AI for social good**.
+- 📫 How to reach me: **o.chongyao@gmail.com**
+- ⚡ Fun fact: When I'm not coding, you can find me exploring hiking trails or experimenting with new recipes in the kitchen!
 
 ### Connect with me:
 
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ocyao" height="30" width="40" />](https://instagram.com/ocyao)
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="henryocy" height="30" width="40" />](https://codeforces.com/profile/henryocy)
+<p align="left">
+  <a href="https://instagram.com/ocyao" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ocyao" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/henryocy" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="henryocy" height="30" width="40" />
+  </a>
+</p>
 
-### Languages and Tools:
+---
 
-[<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>](https://www.arduino.cc/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/)
-[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://www.figma.com/)
-[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/)
-[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>](https://flutter.dev)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
-[<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>](https://opencv.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>](https://pandas.pydata.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
-[<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>](https://pytorch.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>](https://scikit-learn.org/)
-[<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>](https://seaborn.pydata.org/)
-[<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org)
+## 🛠️ My Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chong-yao&show_icons=true&locale=en&layout=compact)
+Here are the languages, frameworks, and tools I'm most comfortable with:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chong-yao&show_icons=true&locale=en)
+**AI & Machine Learning:**
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+</p>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chong-yao&)
+**Frontend Development:**
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+</p>
+
+**Low-Level & Embedded:**
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+</p>
+
+**Tools & Platforms:**
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chong-yao&show_icons=true&locale=en" alt="chong-yao" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chong-yao&show_icons=true&locale=en&layout=compact" alt="chong-yao" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chong-yao&" alt="chong-yao" />
+</p>
+
+---
