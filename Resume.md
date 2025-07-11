@@ -25,25 +25,23 @@
 
 **Skills**
 
-*   Problem-solving
-*   Leadership
-*   Creativity
-*   Attention to detail
-*   Programming
-*   Computer Troubleshooting
-*   Presentation & Exhibition
+* Problem-solving
+* Leadership
+* Creativity
+* Attention to detail
+* Programming
+* Computer Troubleshooting
+* Presentation & Exhibition
 
 ---
 
 **Languages**
 
-*   English (Fluent)
-*   Chinese (Fluent)
-*   Malay (Intermediate)
+* English (Fluent)
+* Chinese (Fluent)
+* Malay (Intermediate)
 
 ---
-
-## Profile
 
 **Hobbies:**
 Distance running, photography, listening to music.
@@ -52,26 +50,24 @@ Distance running, photography, listening to music.
 
 ## Education
 
-*   **INTI International College Penang** Jan. 2025 - Present \
+* **INTI International College Penang** Jan. 2025 - Present \
     Cambridge A-Levels
 
-*   **Han Chiang High School** Sept. 2020 - Dec. 2024 \
+* **Han Chiang High School** Sept. 2020 - Dec. 2024 \
     Cambridge IGCSE O-Levels
 
-*   **Wesley Methodist School Penang (International)** 2018 - 2020 \
+* **Wesley Methodist School Penang (International)** 2018 - 2020 \
     Cambridge Primary Checkpoint
 
-*   **SJK(C) Sin Min A** 2015 - 2018 \
+* **SJK(C) Sin Min A** 2015 - 2018 \
     Primary School Standard Curriculum
 
 ---
 
 ## Additional courses
 
-*   **Computer Science Course, DISTED College (2 years)**
+* **Computer Science Course, DISTED College (2 years)**
     Jan. 2023 - Dec. 2024
-
-*   *Please continue to next page for curriculum vitae.*
 
 ---
 
@@ -131,8 +127,6 @@ Distance running, photography, listening to music.
 **2020**
 
 1. Wesley Methodist School Penang (International) - President of the Polemics Club
-
-*Please continue to next page for continuation of "Co-curricular achievements & activities"*
 
 ---
 
