@@ -24,6 +24,7 @@
 ---
 
 **Skills**
+
 * Problem-solving
 * Leadership
 * Creativity
