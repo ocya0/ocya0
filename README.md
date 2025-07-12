@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username/your-repository/releases/download/latest-resume/resume.pdf">
+  <a href="https://github.com/chong-yao/chong-yao/releases/download/latest-resume/resume.pdf">
     <img src="https://img.shields.io/badge/Download-Resume%20(PDF)-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume PDF"/>
   </a>
 </p>
