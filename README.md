@@ -2,6 +2,12 @@
 
 ### A passionate AI solutions developer
 
+<p align="center">
+  <a href="https://github.com/chong-yao/chong-yao/raw/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/Download-Resume%20(PDF)-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume PDF"/>
+  </a>
+</p>
+
 ![Profile views](https://komarev.com/ghpvc/?username=chong-yao&label=Profile%20views&color=0e75b6&style=flat)
 
 [![chong-yao](https://github-profile-trophy.vercel.app/?username=chong-yao)](https://github.com/ryo-ma/github-profile-trophy)
@@ -16,12 +22,6 @@
   </a>
   <a href="https://codeforces.com/profile/henryocy" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="henryocy" height="30" width="40" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chong-yao/chong-yao/releases/download/latest-resume/resume.pdf">
-    <img src="https://img.shields.io/badge/Download-Resume%20(PDF)-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume PDF"/>
   </a>
 </p>
 
