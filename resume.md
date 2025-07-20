@@ -141,10 +141,6 @@ Distance running, photography, listening to music.
 
 1. Wesley Methodist School Penang (International) - President of the Polemics Club
 
----
-
-## Co-curricular achievements & activities \*certificates can be furnished if needed
-
 **2019**
 
 1. American Mathematics Olympiad
