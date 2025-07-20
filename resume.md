@@ -51,27 +51,38 @@ Distance running, photography, listening to music.
 ## Education
 
 * **INTI International College Penang** Jan. 2025 - Present \
-    Cambridge A-Levels
+  Cambridge A-Levels
 
 * **Han Chiang High School** Sept. 2020 - Dec. 2024 \
-    Cambridge IGCSE O-Levels
+  Cambridge IGCSE O-Levels
 
 * **Wesley Methodist School Penang (International)** 2018 - 2020 \
-    Cambridge Primary Checkpoint
+  Cambridge Primary Checkpoint
 
 * **SJK(C) Sin Min A** 2015 - 2018 \
-    Primary School Standard Curriculum
+  Primary School Standard Curriculum
 
 ---
 
 ## Additional courses
 
-* **Computer Science Course, DISTED College (2 years)**
-    Jan. 2023 - Dec. 2024
+* **Computer Science Course, DISTED College (2 years)** Jan. 2023 - Dec. 2024
 
 ---
 
-## Co-curricular achievements & activities \*certificates can be furnished if needed
+## Work experience
+
+* **Freelance, RedTone × TechQuestPG**
+  - Developed eAduan: AI complaint-routing application for the Malaysian Government
+  - Developed ChatMBPP: an LLM for the public to prompt for content in the Malaysian public knowledgebase
+
+* **Part-time intern, Tech Dome Penang** Apr. 2025 - Aug. 2025
+  - Developed & enhanced their AI solutions
+  - Robotics & tech developer for the 2025 Roboquest competition
+
+---
+
+## Achievements & activities \*certificates can be furnished if needed
 
 **2025:**
 
