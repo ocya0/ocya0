@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/chong-yao/chong-yao/raw/main/Resume.pdf">
-    <img src="https://img.shields.io/badge/Download-Resume%20(PDF)-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume PDF"/>
+    <img src="https://img.shields.io/badge/(PDF)-Download Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume PDF"/>
   </a>
 </p>
 
