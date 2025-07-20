@@ -77,7 +77,9 @@ Distance running, photography, listening to music.
 
 1. Exhibitor at the Launch of Malaysia National AI Office event. Presented global award winning project to P.M. Anwar Ibrahim.
 2. Founder & Vice President of the Competitive Programming Club in INTI College Penang
-3. Silver Award in the Malaysian Olympiad in Artificial Intelligence
+3. Top 6 in the International Olympiad in Artificial Intelligence selection round
+4. Malaysian Olympiad in Artificial Intelligence - Silver Award
+5. Top 4 in the National AI Competition (AI Technical category)
 
 **2024**
 
