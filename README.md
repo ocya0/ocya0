@@ -1,4 +1,4 @@
-I'm Chong Yao
+# 😀 I'm Chong Yao
 
 ### A passionate AI solutions developer
 
