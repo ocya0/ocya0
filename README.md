@@ -1,7 +1,10 @@
-# Hi there 👋, I'm Ong Chong Yao
+I'm Chong Yao
 
 ### A passionate AI solutions developer
-#### Hobbies: distance running, photography, and listening to music. @ocyao on Apple Music
+
+Distance running, cycling, swimming.
+
+Hobbies: photography and listening to music. @ocyao on Apple Music
 
 <p align="center">
   <a href="https://github.com/chong-yao/chong-yao/raw/main/Resume.pdf">
