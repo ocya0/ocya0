@@ -4,7 +4,7 @@
 
 Distance running, cycling, swimming.
 
-Hobbies: photography and listening to music. @ocyao on Apple Music
+Hobbies: photography and listening to music. @ocyao on Instagram & Apple Music
 
 <p align="center">
   <a href="https://github.com/chong-yao/chong-yao/raw/main/Resume.pdf">
