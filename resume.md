@@ -88,7 +88,7 @@ Distance running, photography, listening to music.
 
 1. Exhibitor at the Launch of Malaysia National AI Office event. Presented global award winning project to P.M. Anwar Ibrahim.
 2. Founder & Vice President of the Competitive Programming Club in INTI College Penang
-3. Top 6 in the International Olympiad in Artificial Intelligence selection round
+3. Top 10 in the International Olympiad in Artificial Intelligence selection round
 4. Malaysian Olympiad in Artificial Intelligence - Silver Award
 5. Top 4 in the National AI Competition (AI Technical category)
 
@@ -119,7 +119,7 @@ Distance running, photography, listening to music.
 6. Han Chiang High School Makers Club - Executive Committee Member
 7. Han Chiang High School Certificate of Appreciation as Event Coordinator PA for the success of Penang state STEM Showcase 2023
 8. Penang state STEM Showcase 2023 - Exhibitor & Event Techical Support
-9. Penang state Design Engineer Construct (DEC) competition - Finalists (top 10 prize)
+9. Design Engineer Construct (DEC) competition - Top Finalists
 10. Han Chiang High School English Book Review Contest - Consolation Award
 11. Recipient of Han Chiang High School Scholarship for Sports and Talent 2023
 12. Recipient of Best! Anak Penang: Skim Insentif Kecemerlangan Bakat Muda Pulau Pinang
