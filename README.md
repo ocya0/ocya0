@@ -31,8 +31,6 @@ Hobbies: photography and listening to music. @ocyao on Instagram & Apple Music
 
 ---
 
-## 🛠️ My Tech Stack
-
 **AI & Machine Learning:**
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -69,16 +67,8 @@ Hobbies: photography and listening to music. @ocyao on Instagram & Apple Music
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chong-yao&show_icons=true&locale=en" alt="chong-yao" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chong-yao&show_icons=true&locale=en&layout=compact" alt="chong-yao" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chong-yao&" alt="chong-yao" />
 </p>
 
 ---
