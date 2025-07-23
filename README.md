@@ -14,8 +14,6 @@ Hobbies: photography and listening to music. @ocyao on Instagram & Apple Music
 
 ![Profile views](https://komarev.com/ghpvc/?username=chong-yao&label=Profile%20views&color=0e75b6&style=flat)
 
-📫 **o.chongyao@gmail.com**
-
 ### Connect with me:
 
 <p align="left">
