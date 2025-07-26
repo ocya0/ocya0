@@ -28,142 +28,82 @@ Hobbies: photography and listening to music. @ocyao on Instagram & Apple Music
 ---
 
 **AI & ML:**
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        <br>Python
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-        <br>PyTorch
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-        <br>TensorFlow
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-        <br>Scikit-learn
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-        <br>Pandas
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-        <br>Seaborn
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-        <br>OpenCV
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/>
+  </a>
+</p>
 
 **Frontend Development:**
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-        <br>React
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-        <br>Flutter
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-        <br>HTML5
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-        <br>CSS3
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  </a>
+</p>
 
 **Low-Level & Embedded:**
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-        <br>C
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-        <br>C++
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-        <br>Arduino
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino"/>
+  </a>
+</p>
 
 **Tools & Platforms:**
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-        <br>Git
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-        <br>Firebase
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-        <br>Linux
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-        <br>Figma
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  </a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chong-yao&show_icons=true&locale=en&layout=donut&theme=transparent" alt="chong-yao" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chong-yao&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="40%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chong-yao&theme=aura&hide_border=true" width="47.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chong-yao&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" /> </br>
+</div>
 
 ![snake gif](https://github.com/chong-yao/chong-yao/blob/output/github-contribution-grid-snake.svg)
 
