@@ -105,6 +105,10 @@ Hobbies: photography and listening to music. @ocyao on Instagram & Apple Music
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chong-yao&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" /> </br>
 </div>
 
-![snake gif](https://github.com/chong-yao/chong-yao/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chong-yao/chong-yao/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chong-yao/chong-yao/output/github-snake.svg">
+  <img alt="github snake" src="https://raw.githubusercontent.com/chong-yao/chong-yao/output/github-snake.svg">
+</picture>
 
 ---
