@@ -100,9 +100,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chong-yao&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="40%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chong-yao&theme=transparent&hide_border=true" width="47.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chong-yao&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=chong-yao&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="40%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chong-yao&theme=aura&hide_border=true" width="47.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chong-yao&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" /> </br>
 </div>
 
 <picture>
