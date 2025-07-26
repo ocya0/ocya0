@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&width=435&lines=I'm+Chong+Yao;%E7%8E%8B%E5%B4%87%E8%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=0&width=435&lines=I'm+Ong+Chong+Yao,+%E7%8E%8B%E5%B4%87%E8%80%80)](https://git.io/typing-svg)
 
 ### A passionate AI solutions developer
 
