@@ -2,9 +2,9 @@
 
 ### A passionate AI solutions developer
 
-Distance running, cycling, swimming.
+#### Distance running, cycling, swimming.
 
-Hobbies: photography and listening to music. @ocyao on Instagram & Apple Music
+#### Hobbies: photography and listening to music. @ocyao on Instagram & Apple Music
 
 <p align="center">
   <a href="https://github.com/chong-yao/chong-yao/raw/main/Resume.pdf">
@@ -100,15 +100,15 @@ Hobbies: photography and listening to music. @ocyao on Instagram & Apple Music
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chong-yao&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="40%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chong-yao&theme=aura&hide_border=true" width="47.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chong-yao&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=chong-yao&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="28.8%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chong-yao&theme=aura&hide_border=true" width="34.2%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chong-yao&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="29%" /> </br>
 </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chong-yao/chong-yao/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chong-yao/chong-yao/output/github-snake.svg">
-  <img alt="github snake" src="https://raw.githubusercontent.com/chong-yao/chong-yao/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/chong-yao/chong-yao/output/github-snake.svg">
 </picture>
 
 ---
