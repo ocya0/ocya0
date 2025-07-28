@@ -2,7 +2,7 @@
   <tr>
     <td width="30%" valign="top" align="center">
       <p align="center">
-        <img src="ONG_CHONG_YAO_headshot-square.jpg" style="border-radius: 50%; alt="Chong Yao Ong">
+        <img src="OCY - Headshot (square).jpg" style="border-radius: 50%; alt="Chong Yao Ong">
       </p>
     </td>
     <td width="70%" valign="top">
@@ -91,6 +91,7 @@ Distance running, photography, listening to music.
 3. Top 10 in the International Olympiad in Artificial Intelligence selection round
 4. Malaysian Olympiad in Artificial Intelligence - Silver Award
 5. Top 4 in the National AI Competition (AI Technical category)
+6. Python Discord Code Jam 12 Qualified
 
 **2024**
 

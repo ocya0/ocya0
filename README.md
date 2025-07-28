@@ -7,7 +7,7 @@
 #### Hobbies: photography and listening to music. @ocyao on Instagram & Apple Music
 
 <p align="center">
-  <a href="https://github.com/chong-yao/chong-yao/raw/main/Resume.pdf">
+  <a href="https://github.com/chong-yao/chong-yao/raw/main/resume.pdf">
     <img src="https://img.shields.io/badge/(PDF)-Download Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume PDF"/>
   </a>
 </p>
