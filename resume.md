@@ -30,8 +30,9 @@
 * Creativity
 * Attention to detail
 * Programming
-* Computer Troubleshooting
 * Presentation & Exhibition
+* Coaching
+* Crowd handling
 
 ---
 
@@ -79,10 +80,13 @@ Distance running, photography, listening to music.
 * **Part-time intern, Tech Dome Penang** Apr. 2025 - Aug. 2025
   - Developed & enhanced their AI solutions
   - Robotics & tech developer for the 2025 Roboquest competition
+  - Coached a Malaysian school (SMK Jelutong) to 1st place in the 2025 Roboquest competition
+    - against schools from Hong Kong, China, Singapore, etc
 
 ---
 
-## Achievements & activities \*certificates can be furnished if needed
+## Achievements & activities 
+\* certificates can be furnished if needed
 
 **2025:**
 
