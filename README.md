@@ -12,16 +12,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=chong-yao&label=Profile%20views&color=0e75b6&style=flat)
 
-### Connect with me:
-
 <p align="left">
   <a href="https://instagram.com/ocyao" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ocyao" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/henryocy" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="henryocy" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
