@@ -5,12 +5,12 @@
 #### Hobbies: photography and listening to music. @ocyao on Instagram & Apple Music
 
 <p align="center">
-  <a href="https://github.com/ocya0/ocya0/raw/main/resume.pdf">
+  <a href="https://github.com/chong-yao/chong-yao/raw/main/resume.pdf">
     <img src="https://img.shields.io/badge/(PDF)-Download Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume PDF"/>
   </a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=ocya0&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=chong-yao&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="left">
   <a href="https://instagram.com/ocyao" target="_blank" rel="noopener noreferrer">
@@ -92,15 +92,15 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ocya0&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="40%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocya0&theme=aura&hide_border=true" width="47.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocya0&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=chong-yao&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="40%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chong-yao&theme=aura&hide_border=true" width="47.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chong-yao&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" /> </br>
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ocya0/ocya0/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ocya0/ocya0/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ocya0/ocya0/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chong-yao/chong-yao/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chong-yao/chong-yao/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/chong-yao/chong-yao/output/github-snake.svg">
 </picture>
 
 ---
